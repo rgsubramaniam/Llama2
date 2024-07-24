@@ -4,4 +4,6 @@ streamlit
 faiss-cpu
 boto3
 python-dotenv
+langchain-community
+ctransformers
 -e .
