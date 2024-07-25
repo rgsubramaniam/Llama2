@@ -3,6 +3,7 @@ ctransformers==0.2.5
 pypdf
 streamlit
 faiss-cpu
+flask
 boto3
 python-dotenv
 langchain-community
